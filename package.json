@@ -1,0 +1,23 @@
+{
+  "name": "cyber-dojo",
+  "version": "1.0.0",
+  "description": "This repo contains my solutions to cyber-dojo problems. Cyber-dojo is a site for practicing TDD.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ershadul1/cyber-dojo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ershadul1/cyber-dojo/issues"
+  },
+  "homepage": "https://github.com/ershadul1/cyber-dojo#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
