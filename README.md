@@ -1,5 +1,5 @@
 # cyber-dojo
-This repo contains my solutions to cyber-dojo problems. Cyber-dojo is a site for practicing TDD.
+This repo contains my solutions to cyber-dojo problems. The main origin of the problems are http://rosettacode.org. I use TDD approach for solving these problems. The main goal is to practice TDD.
 
 ## Tools
 - Javascript
